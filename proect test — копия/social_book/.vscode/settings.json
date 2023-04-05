@@ -1,0 +1,8 @@
+{
+    "window.autoDetectColorScheme": false,
+    "window.closeWhenEmpty": false,
+    "window.commandCenter": false,
+    "editor.wrappingIndent": "same",
+    "git.ignoreLegacyWarning": false,
+    "npm.autoDetect": "off"
+}
